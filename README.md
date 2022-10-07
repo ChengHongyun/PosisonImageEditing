@@ -1,9 +1,9 @@
 # ReproductionPosisonImageEditing
 First assignment of CIE6004
 
-## Due Date: 2023/10/9 11:59PM
-## Points: 10(0.6 $\times$ report + 0.4 $\times$ code)
-### Specification
+**Due Date: 2023/10/9 11:59PM**  
+**Points: 10(0.6 $\times$ report + 0.4 $\times$ code)**  
+**Specification**  
 Reading the following paper, you need to reproduce Poisson Image Editing by yourself.  
 
 Please submitting two files：
